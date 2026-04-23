@@ -1,1 +1,4 @@
 # NEURAL-NETWORK-ASSIGNMENT-1-
+dollie 
+2301201217 
+bca section c
